@@ -2,6 +2,8 @@
 #####################
 temp
 template
+input-cache
+.vs
 output
 
 # Don't commit this because it's so large #
@@ -20,3 +22,5 @@ Thumbs.db
 # backup files #
 ################
 *.bak
+
+
