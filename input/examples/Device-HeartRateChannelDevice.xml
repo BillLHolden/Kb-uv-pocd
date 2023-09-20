@@ -8,7 +8,7 @@
   <type>
     <coding>
       <system value="urn:iso:std:iso:11073:10101"/>
-      <code value="70739"/>
+      <code value="12345"/>
       <display value="MDC_DEV_CARD_RATE_CHAN"/>
     </coding>
   </type>

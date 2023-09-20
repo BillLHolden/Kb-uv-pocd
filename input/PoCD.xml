@@ -4,7 +4,7 @@
   <url value="http://hl7.org/fhir/uv/pocd/ImplementationGuide/hl7.fhir.uv.pocd"/>
   <version value="current"/>
   <name value="PoCDImplementationGuide"/>
-  <title value="Point-of-Care Device Implementation Guide"/>
+  <title value="Point-of-Care Device Hospital Patient Monitoring Implementation Guide"/>
   <status value="draft"/>
   <experimental value="false"/>
   <date value="2021-11-26"/>
